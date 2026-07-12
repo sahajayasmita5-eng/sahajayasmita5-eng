@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Jayasmita%20Saha&fontSize=40&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Experienced%20System%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/sahajayasmita5-eng">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions+with+SQL+%26+Power+BI;Building+enterprise-scale+compliance+dashboards;Azure+AZ-900+Certified+%7C+Systems+%2B+Data+background;Automating+workflows+with+Cursor+AI+%2B+BMC+Helix;Open+to+Data+%2F+BI+Analyst+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions+with+SQL+%26+Power+BI;Building+enterprise-scale+compliance+dashboards;Azure+AZ-900+Certified+%7C+Systems+%2B+Data+background;Automating+workflows+with+Cursor+AI+%2B+BMC+Helix;Open+to+Data+%2F+BI+Analyst+roles" alt="Typing SVG" />
 </a>
 
 <br/>
