@@ -47,9 +47,9 @@ const jayasmitaSaha = {
 
 ### 🚀 Featured Projects
 
-#### 📊 Enterprise Server Patch Compliance Dashboard
+#### 📊 Enterprise Server Patch Compliance Report
 
-Designed an interactive Power BI dashboard tracking patch compliance across 700+ enterprise servers, giving stakeholders a live view of infrastructure health. The dashboard surfaces compliance trends and flags at-risk systems, turning a manual audit process into a data-driven prioritization tool for remediation teams.
+Designed an interactive Power BI report tracking patch compliance across 700+ enterprise servers, giving stakeholders a live view of infrastructure health. The dashboard surfaces compliance trends and flags at-risk systems, turning a manual audit process into a data-driven prioritization tool for remediation teams.
 
 | Layer | Technology |
 |---|---|
@@ -57,9 +57,9 @@ Designed an interactive Power BI dashboard tracking patch compliance across 700+
 | Data Layer | SQL |
 | Data Prep | Excel |
 
-#### 📡 Telecom Product Performance Analysis Dashboard
+#### 📡 Telecom Product Performance Analysis Report
 
-Built a business intelligence dashboard analyzing telecom product performance, customer behavior trends, and core operational KPIs. Interactive visualizations translate raw usage data into actionable insights that support faster, more confident decision-making for product and operations teams.
+Built a business intelligence report analyzing telecom product performance, customer behavior trends, and core operational KPIs. Interactive visualizations translate raw usage data into actionable insights that support faster, more confident decision-making for product and operations teams.
 
 | Layer | Technology |
 |---|---|
